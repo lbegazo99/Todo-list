@@ -27,6 +27,8 @@ body{
     color: rgb(160, 6, 6);
 }
 
-.home_div{
-    
+#create_task_block{
+    width: 400px;
+    height: 200px;
 }
+
